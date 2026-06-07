@@ -1,1 +1,14 @@
-{ "github.copilot.nextEditSuggestions.enabled": false }
+{
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.suggest.showIcons": false,
+  "github.copilot.enable": {
+    "*": false
+  }
+}
