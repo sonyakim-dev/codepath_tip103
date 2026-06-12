@@ -7,8 +7,5 @@
   },
   "editor.suggestOnTriggerCharacters": false,
   "editor.inlineSuggest.enabled": false,
-  "editor.suggest.showIcons": false,
-  "github.copilot.enable": {
-    "*": false
-  }
+  "editor.suggest.showIcons": false
 }
